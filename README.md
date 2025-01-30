@@ -64,8 +64,8 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
 
 ## Contributors : 
 
-| Project Guide  | Group Leader | Group Member 2 |  Group Member 3 | Group Member 4 |
-| -------------  | ------------ | -------------- | --------------- | -------------- |
-| Ms.Abira Banik | Suraj Patil  | Matlup Ali Mir |  Varad Patil    | Atharva Pimple |
+| Project Guide  | Group Leader  |    Group Member 2   |  Group Member 3  | Group Member 4 |
+| -------------  | ------------  | ------------------- | ---------------- | -------------- |
+| Mr.Rajiv Singh | Pratham Yadav | Kushagra Srivastava |  Lakshya Dwivedi | Pulkit Agrawal |
 
 
